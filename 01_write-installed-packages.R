@@ -11,3 +11,6 @@ ipt <- installed.packages() %>%
   write_csv(here("data.csv"))
 
 ipt
+
+
+# add insightful comment
