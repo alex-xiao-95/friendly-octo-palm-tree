@@ -8,3 +8,5 @@ a line i wrote on GitHub in the browser
 a line i wrote for pull conflict
 
 a line i wrote for pull conflict v2
+
+pull conflict v3
